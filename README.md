@@ -15,4 +15,4 @@ CNN-BiLSTM balancing contrastive loss
 (https://www.scitepress.org/Papers/2020/101353/pdf/index.html)
 
 
-Self-Attention Balancing : AttentionContext() 대신 tf.keras.layers.GlobalMaxPool1D() 사용 결과 성능 대폭 
+Self-Attention Balancing : AttentionContext() 대신 tf.keras.layers.GlobalMaxPool1D() 사용 결과 성능 대폭 하락
